@@ -62,7 +62,7 @@ export default {
   background: hsl(300, 100%, 25%);
 }
 .container {
-  width: 100vw;
+  // width: 100vw;
   height: 6em;
   display: flex;
   align-items: center;

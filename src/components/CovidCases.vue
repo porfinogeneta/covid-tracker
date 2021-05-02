@@ -50,10 +50,7 @@ export default {
     GotData: {
       requiered: true
     },
-    Test: {
-      type: String,
-      default: 'ssss'
-    }
+
   },
   setup(props) {
 
@@ -108,9 +105,10 @@ export default {
 .container {
   color: #e3e5e5;
   margin-top: 3rem;
-  
+  margin-left: auto;
+  margin-right: auto;
   // flex-direction: column;
-  // width: 100vw;
+  // width: 80vw;
   // height: 100vh;
   .title {
     display: flex;
