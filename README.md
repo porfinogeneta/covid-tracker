@@ -3,6 +3,9 @@
 ## Description
 This app was made with https://covid19api.com/ API. The project is meant to be a small Vuejs exercise. It uses framework concepts such as: props passing, signal emission, using external API and style binding. 
 
+## Website link
+You can visit the website at given link https://porfinogeneta.github.io/covid-tracker/
+
 ## Pie chart
 I created Pie Chart using style binding and conic-gradient, background CSS property.
 ### Please take into accoint that pie chart is NOT mathematically correct!
